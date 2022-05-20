@@ -108,13 +108,11 @@ namespace Будильник
             // 
             // radioButton1
             // 
-            this.radioButton1.AutoCheck = false;
             this.radioButton1.AutoSize = true;
             this.radioButton1.Location = new System.Drawing.Point(82, 101);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(44, 17);
             this.radioButton1.TabIndex = 6;
-            this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Вкл";
             this.radioButton1.UseVisualStyleBackColor = true;
             this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
